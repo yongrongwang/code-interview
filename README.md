@@ -1,2 +1,1 @@
-# code-interview
-面试知识
+# CS Notes
