@@ -56,7 +56,7 @@ apply 期望一个包含这些参数的类数组对象。
 
 下面是原型面向对象风格：
 
-```JavaScript
+```javaScript
 function Foo(name) {
     this.name = name;
 }
@@ -72,7 +72,7 @@ var b1 = new Bar("b1");
 
 下面是对象关联风格：
 
-```JavaScript
+```javaScript
 Foo = {
     init: function(name) {
         this.name = name;
